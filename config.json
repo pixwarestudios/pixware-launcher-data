@@ -1,4 +1,10 @@
 {
+  "launcher": {
+    "title": "Pixware Launcher",
+    "welcome": "Pixware'e hoşgeldin 🚀",
+    "version": "1.0.0"
+  },
+
   "user": {
     "login_enabled": false
   },
@@ -50,7 +56,6 @@
       "name": "Starcatcher",
       "version": "1.0.0",
       "size": "16 MB",
-      "installed": false,
 
       "image": "https://img.itch.zone/aW1nLzI2NzcyNjIzLnBuZw==/315x250%23c/ohGT%2Bj.png",
       "banner": "https://img.itch.zone/aW1nLzI2NzcyNzg2LnBuZw==/original/RBrXYG.png",
@@ -58,25 +63,27 @@
       "download_url": "https://github.com/pixwarestudios/pixware-launcher-data/releases/download/v1.0/starcatcher-win64.zip",
       "exe": "starcatcher.exe",
 
-      "description": "
- Collect stars on this space platformer!
+      "description": "Collect stars in this space platformer inspired by Metroid and Kirby.",
 
- Inspirations: Out There Somewhere, Kirby, Metroid, Wallker Demolition Co., Gravitron Experiment (yeah, I ended up taking using two of our other games as reference here and there)."
+      "category": "Indie",
+      "featured": true
     },
 
     {
       "name": "Yakında...",
       "version": "0.0.1",
       "size": "???",
-      "installed": false,
 
       "image": "https://via.placeholder.com/300x200",
       "banner": "https://via.placeholder.com/600x300",
 
-      "download_url": "",
-      "exe": "",
+      "download_url": null,
+      "exe": null,
 
-      "description": "Yeni oyun yakında eklenecek..."
+      "description": "Yeni oyun yakında eklenecek...",
+
+      "category": "ComingSoon",
+      "featured": false
     }
   ]
 }
