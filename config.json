@@ -4,35 +4,31 @@
     "welcome": "Pixware'e hoşgeldin 🚀",
     "version": "1.0.0"
   },
-
   "user": {
     "login_enabled": false
   },
-
   "news": [
+    {
+      "title": "Kütüphane Güncellendi!",
+      "content": "Terraforma, The Arena RPG ve daha fazlası şimdi Pixware Launcher'da.",
+      "image": "https://img.itch.zone/aW1nLzE2OTI0MzA3LnBuZw==/315x250%23c/8hL6XJ.png"
+    },
     {
       "title": "Pixware Launcher Yayında!",
       "content": "Yeni launcher sistemimiz aktif. Oyunları artık tek tıkla indirebilirsiniz.",
       "image": "https://img.itch.zone/aW1nLzEyMzQ1Njc4LnBuZw==/original/example.png"
-    },
-    {
-      "title": "Starcatcher Güncellendi",
-      "content": "Performans iyileştirmeleri yapıldı.",
-      "image": "https://img.itch.zone/aW1nLzEyMzQ1Njc4LnBuZw==/original/example.png"
     }
   ],
-
   "devlogs": [
     {
-      "title": "Devlog #1",
-      "content": "Launcher sistemi sıfırdan geliştirildi."
+      "title": "Devlog #3",
+      "content": "Yeni RPG ve yarış oyunları sisteme entegre edildi."
     },
     {
       "title": "Devlog #2",
       "content": "Download ve kurulum sistemi eklendi."
     }
   ],
-
   "updates": [
     {
       "version": "1.0.0",
@@ -41,48 +37,67 @@
         "Oyun indirme sistemi eklendi",
         "UI geliştirildi"
       ]
-    },
-    {
-      "version": "1.1.0",
-      "changes": [
-        "Performans artırıldı",
-        "Bug fixler yapıldı"
-      ]
     }
   ],
-
   "games": [
     {
       "name": "Starcatcher",
       "version": "1.0.0",
       "size": "16 MB",
-
       "image": "https://img.itch.zone/aW1nLzI2NzcyNjIzLnBuZw==/315x250%23c/ohGT%2Bj.png",
       "banner": "https://img.itch.zone/aW1nLzI2NzcyNzg2LnBuZw==/original/RBrXYG.png",
-
       "download_url": "https://github.com/pixwarestudios/pixware-launcher-data/releases/download/v1.0/starcatcher-win64.zip",
       "exe": "starcatcher.exe",
-
-      "description": "Collect stars in this space platformer inspired by Metroid and Kirby.",
-
+      "description": "Metroid ve Kirby'den esinlenen bu uzay platform oyununda yıldızları topla.",
       "category": "Indie",
       "featured": true
     },
-
     {
-      "name": "Yakında...",
-      "version": "0.0.1",
-      "size": "???",
-
-      "image": "https://via.placeholder.com/300x200",
-      "banner": "https://via.placeholder.com/600x300",
-
-      "download_url": null,
-      "exe": null,
-
-      "description": "Yeni oyun yakında eklenecek...",
-
-      "category": "ComingSoon",
+      "name": "Terraforma",
+      "version": "1.0.0",
+      "size": "50 MB",
+      "image": "https://img.itch.zone/aW1nLzE2OTI0MzA3LnBuZw==/315x250%23c/8hL6XJ.png",
+      "banner": "https://img.itch.zone/aW1nLzE2OTI0MzA3LnBuZw==/original/8hL6XJ.png",
+      "download_url": "https://github.com/pixwarestudios/pixware-launcher-data/releases/download/v1.01/Terraforma.-.WIN.zip",
+      "exe": "Terraforma.exe",
+      "description": "Gezegeni yaşanabilir kılmak için kaynakları yönet ve inşa et.",
+      "category": "Strategy",
+      "featured": true
+    },
+    {
+      "name": "The Arena RPG",
+      "version": "1.0.0",
+      "size": "28 MB",
+      "image": "https://img.itch.zone/aW1nLzE2Nzc3MzExLnBuZw==/315x250%23c/wB7L%2Bb.png",
+      "banner": "https://img.itch.zone/aW1nLzE2Nzc3MzExLnBuZw==/original/wB7L%2Bb.png",
+      "download_url": "https://github.com/pixwarestudios/pixware-launcher-data/releases/download/00.1/The.Arena.RPG.Win.0.002.rar",
+      "exe": "The Arena RPG.exe",
+      "description": "Arenada hayatta kal, yeteneklerini geliştir ve rakiplerini alt et.",
+      "category": "RPG",
+      "featured": false
+    },
+    {
+      "name": "Crazy Driver",
+      "version": "1.0.0",
+      "size": "33 MB",
+      "image": "https://img.itch.zone/aW1nLzE2Njg3NDM1LnBuZw==/315x250%23c/Lz7zHn.png",
+      "banner": "https://img.itch.zone/aW1nLzE2Njg3NDM1LnBuZw==/original/Lz7zHn.png",
+      "download_url": "https://github.com/pixwarestudios/pixware-launcher-data/releases/download/01/Windows.rar",
+      "exe": "Crazy Driver.exe",
+      "description": "Hız ve kaos! Trafikte hayatta kalmaya çalışırken puanları topla.",
+      "category": "Racing",
+      "featured": false
+    },
+    {
+      "name": "Little Spy",
+      "version": "1.0.0",
+      "size": "26 MB",
+      "image": "https://img.itch.zone/aW1nLzE2NDY3MzEwLnBuZw==/315x250%23c/J6kF7G.png",
+      "banner": "https://img.itch.zone/aW1nLzE2NDY3MzEwLnBuZw==/original/J6kF7G.png",
+      "download_url": "https://github.com/pixwarestudios/pixware-launcher-data/releases/download/0001/little-spy-v1.0.6-windows-x86_64.zip",
+      "exe": "Little-Spy.exe",
+      "description": "Gizlilik odaklı bu macerada fark edilmeden görevleri tamamla.",
+      "category": "Stealth",
       "featured": false
     }
   ]
