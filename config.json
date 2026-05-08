@@ -1,0 +1,28 @@
+{
+  "games": [
+    {
+      "name": "Aetherion",
+      "version": "1.0.0",
+      "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e",
+      "banner": "https://images.unsplash.com/photo-1511512578047-dfb367046420",
+      "download_url": "https://github.com/kullanici/repo/releases/download/v1/game.zip",
+      "description": "AI destekli açık dünya macera oyunu"
+    },
+    {
+      "name": "Neon Strike",
+      "version": "0.9.2",
+      "image": "https://images.unsplash.com/photo-1526378722484-bd91ca387e72",
+      "banner": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8",
+      "download_url": "https://github.com/kullanici/repo/releases/download/v1/game2.zip",
+      "description": "Cyberpunk FPS deneyimi"
+    },
+    {
+      "name": "Void Runner",
+      "version": "0.5.1",
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+      "banner": "https://images.unsplash.com/photo-1503264116251-35a269479413",
+      "download_url": "https://github.com/kullanici/repo/releases/download/v1/game3.zip",
+      "description": "Hızlı tempolu sci-fi runner oyunu"
+    }
+  ]
+}
