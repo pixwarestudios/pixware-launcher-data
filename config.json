@@ -58,12 +58,7 @@
       "download_url": "https://github.com/pixwarestudios/pixware-launcher-data/releases/download/v1.0/starcatcher-win64.zip",
       "exe": "starcatcher.exe",
 
-      "description": "How to play:
-Z/X/C:
-Hold to walk;
-Release to jump:
-Press mid-air to ground pound and flip your direction.
-About
+      "description": "
  Collect stars on this space platformer!
 
  Inspirations: Out There Somewhere, Kirby, Metroid, Wallker Demolition Co., Gravitron Experiment (yeah, I ended up taking using two of our other games as reference here and there)."
