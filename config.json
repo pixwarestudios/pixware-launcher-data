@@ -2,23 +2,86 @@
   "user": {
     "login_enabled": false
   },
+
   "news": [
     {
-      "title": "Launcher Yayında!",
-      "content": "Pixware Launcher aktif.",
-      "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420"
+      "title": "Pixware Launcher Yayında!",
+      "content": "Yeni launcher sistemimiz aktif. Oyunları artık tek tıkla indirebilirsiniz.",
+      "image": "https://img.itch.zone/aW1nLzEyMzQ1Njc4LnBuZw==/original/example.png"
+    },
+    {
+      "title": "Starcatcher Güncellendi",
+      "content": "Performans iyileştirmeleri yapıldı.",
+      "image": "https://img.itch.zone/aW1nLzEyMzQ1Njc4LnBuZw==/original/example.png"
     }
   ],
+
+  "devlogs": [
+    {
+      "title": "Devlog #1",
+      "content": "Launcher sistemi sıfırdan geliştirildi."
+    },
+    {
+      "title": "Devlog #2",
+      "content": "Download ve kurulum sistemi eklendi."
+    }
+  ],
+
+  "updates": [
+    {
+      "version": "1.0.0",
+      "changes": [
+        "Launcher çıkış yaptı",
+        "Oyun indirme sistemi eklendi",
+        "UI geliştirildi"
+      ]
+    },
+    {
+      "version": "1.1.0",
+      "changes": [
+        "Performans artırıldı",
+        "Bug fixler yapıldı"
+      ]
+    }
+  ],
+
   "games": [
     {
-      "name": "Aetherion",
+      "name": "Starcatcher",
       "version": "1.0.0",
-      "size": "3.2 GB",
+      "size": "16 MB",
       "installed": false,
-      "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e",
-      "banner": "https://images.unsplash.com/photo-1511512578047-dfb367046420",
-      "download_url": "https://github.com/pixwarestudios/pixware-launcher-data/releases/download/v1/game.zip",
-      "description": "AI oyun"
+
+      "image": "https://img.itch.zone/aW1nLzI2NzcyNjIzLnBuZw==/315x250%23c/ohGT%2Bj.png",
+      "banner": "https://img.itch.zone/aW1nLzI2NzcyNzg2LnBuZw==/original/RBrXYG.png",
+
+      "download_url": "https://github.com/pixwarestudios/pixware-launcher-data/releases/download/v1.0/starcatcher-win64.zip",
+      "exe": "starcatcher.exe",
+
+      "description": "How to play:
+Z/X/C:
+Hold to walk;
+Release to jump:
+Press mid-air to ground pound and flip your direction.
+About
+ Collect stars on this space platformer!
+
+ Inspirations: Out There Somewhere, Kirby, Metroid, Wallker Demolition Co., Gravitron Experiment (yeah, I ended up taking using two of our other games as reference here and there)."
+    },
+
+    {
+      "name": "Yakında...",
+      "version": "0.0.1",
+      "size": "???",
+      "installed": false,
+
+      "image": "https://via.placeholder.com/300x200",
+      "banner": "https://via.placeholder.com/600x300",
+
+      "download_url": "",
+      "exe": "",
+
+      "description": "Yeni oyun yakında eklenecek..."
     }
   ]
 }
