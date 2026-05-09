@@ -65,27 +65,25 @@
       "featured": true
     },
     {
-      "name": "The Arena RPG",
-      "version": "1.0.0",
-      "size": "28 MB",
-      "image": "https://img.itch.zone/aW1nLzIwMTQ4OTc5LnBuZw==/315x250%23c/cXydkh.png",
+      "name": "Six Ways to Suffer",
+      "version": "v2025.09.28",
+      "size": "44 MB",
+      "image": "https://img.itch.zone/aW1nLzIzMjYyMDAxLnBuZw==/315x250%23c/%2FdpfS3.png",
       
-      "download_url": "https://github.com/pixwarestudios/pixware-launcher-data/releases/download/00.1/The.Arena.RPG.Win.0.002.rar",
-      "exe": "The Arena RPG.exe",
-      "description": "Arenada hayatta kal, yeteneklerini geliştir ve rakiplerini alt et.",
-      "category": "RPG",
+      "download_url": "https://github.com/pixwarestudios/pixware-launcher-data/releases/download/01/six-ways-to-suffer-windows.zip",
+      "exe": "windows_release.x86_64.exe",
+    
       "featured": false
     },
     {
-      "name": "Crazy Driver",
+      "name": "Stuck in the Dark",
       "version": "1.0.0",
-      "size": "33 MB",
-      "image": "https://img.itch.zone/aW1nLzE5Mjc0ODU2LnBuZw==/315x250%23c/p%2FQq%2BQ.png",
+      "size": "63 MB",
+      "image": "https://img.itch.zone/aW1nLzI0OTcwMTcucG5n/315x250%23c/mB74Yb.png",
       
-      "download_url": "https://github.com/pixwarestudios/pixware-launcher-data/releases/download/01/Windows.rar",
-      "exe": "Crazy Driver.exe",
-      "description": "Hız ve kaos! Trafikte hayatta kalmaya çalışırken puanları topla.",
-      "category": "Racing",
+      "download_url": "https://github.com/pixwarestudios/pixware-launcher-data/releases/download/00.1/StuckInTheDark_Win32.1.zip",
+      "exe": "Stuck In The Dark",
+      
       "featured": false
     },
     {
